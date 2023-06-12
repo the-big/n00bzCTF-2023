@@ -7,7 +7,7 @@
  |_| |_|\___/ \___/|_.__/___|\_____|  |_|  |_|     
 ```
 
-# The Power of Google Tools for Geoguessr OSINT Challenges (Damn, Mission Moon, Lost)
+# The Power of Google Lens for Geoguessr OSINT Challenges (Damn, Mission Moon, Lost)
 
 ### Damn
 
