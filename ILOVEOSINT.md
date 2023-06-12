@@ -51,7 +51,7 @@
 ### *The solution*:
 
 ## Lost
-*The problem*:
+### *The problem*:
 
 ### *The file*:
 
