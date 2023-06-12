@@ -25,7 +25,7 @@
 
 ![img](https://cdn.discordapp.com/attachments/982094827170713712/1117622521932562462/image.png)
 
-3. Just by reducing the crop window, we can see that we can more results, and one particular result stands out to me: the article from ![Digital Journal](https://www.digitaljournal.com/world/ukraine-dam-destruction-a-consequence-of-russian-invasion-un-chief/article).
+3. Just by reducing the crop window, we can see that we can more results, and one particular result stands out to me: the article from [Digital Journal][2].
 
 ![img](https://cdn.discordapp.com/attachments/982094827170713712/1117622873557835946/image.png)
 
@@ -38,6 +38,7 @@
 6. The flag format indicates us to put it in n00bz{City_Name} format, so let's do that: `n00bz{Nova_Kakhovka}`
 
 [1]: https://www.perfil.com/tags/Rusia "Perfil"
+[2]: https://www.digitaljournal.com/world/ukraine-dam-destruction-a-consequence-of-russian-invasion-un-chief/article "Digital Journal"
 
 ### Mission Moon
 *The problem*:
