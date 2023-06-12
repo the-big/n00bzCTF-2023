@@ -13,6 +13,10 @@
 
 The file:
 
-![image](https://cdn.discordapp.com/attachments/982094827170713712/1117620373933019226/dam.png)
+![img](https://cdn.discordapp.com/attachments/982094827170713712/1117620373933019226/dam.png)
+
+1. Whenever I'm given an image for an OSINT challenge, I always like to use Google Lens to either 1) discover the origin of the image (preferred) or 2) find out similar images that hints at its whereabouts. In this case, the latter fits this problem.
+
+![img](https://cdn.discordapp.com/attachments/982094827170713712/1117621570219814922/image.png)
 
 
