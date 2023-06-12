@@ -35,6 +35,4 @@
 
 5. With the address being "Новокаховське шосе, 3 м, Nova Kakhovka, Kherson Oblast, Ukraine, 74900," we can deduce that the city is either "Nova Kakhovka" or "Kherson Oblast." After further investigation, Kherson Oblast appears to be a province within Ukraine, therefore we can say for certain the city would be Nova Kakhovka.
 
-6. The flag format indicates us to put it in n00bz{City_Name} format, so let's do that.
-
-7. `n00bz{Nova_Kakhovka}`
+6. The flag format indicates us to put it in n00bz{City_Name} format, so let's do that: `n00bz{Nova_Kakhovka}`
