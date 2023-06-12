@@ -7,7 +7,7 @@
  |_| |_|\___/ \___/|_.__/___|\_____|  |_|  |_|     
 ```
 
-# ALL OSINT CHALLS (except John Doe Strikes Again)
+# The Power of Google Tools for Geoguessr OSINT Challenges (Damn, Mission Moon, Lost)
 
 ### Damn
 
