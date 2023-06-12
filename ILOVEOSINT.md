@@ -11,9 +11,9 @@
 
 ### Damn
 
-The problem: `Damn bro, Dam! -- Note: Find out the city that this dam is in. Flag format is n00bz{City_Name} Author: NoobMaster`
+*The problem*: `Damn bro, Dam! -- Note: Find out the city that this dam is in. Flag format is n00bz{City_Name} Author: NoobMaster`
 
-The file:
+*The file*:
 
 ![img](https://cdn.discordapp.com/attachments/982094827170713712/1117620373933019226/dam.png)
 
