@@ -9,14 +9,16 @@
 
 # The Power of Google Lens for Geoguessr OSINT Challenges (Damn, Mission Moon, Lost)
 
-### Damn
+## Damn
 
-*The problem*: 
+### *The problem*: 
 > <h3>Damn bro, Dam! -- Note: Find out the city that this dam is in. Flag format is n00bz{City_Name} Author: NoobMaster</h3>
 
 *The file*:
 
 ![img](https://cdn.discordapp.com/attachments/982094827170713712/1117620373933019226/dam.png)
+
+### *The solution*:
 
 1. Whenever I'm given an image for an OSINT challenge, I always like to use Google Lens to either 1) discover the origin of the image (preferred) or 2) find out similar images that hints at its whereabouts. In this case, the latter fits this problem:
 
@@ -41,12 +43,16 @@
 [1]: https://www.perfil.com/tags/Rusia "Perfil"
 [2]: https://www.digitaljournal.com/world/ukraine-dam-destruction-a-consequence-of-russian-invasion-un-chief/article "Digital Journal"
 
-### Mission Moon
+## Mission Moon
+### *The problem*:
+
+### *The file*:
+
+### *The solution*:
+
+## Lost
 *The problem*:
 
-*The file*:
+### *The file*:
 
-### Lost
-*The problem*:
-
-*The file*:
+### *The solution*:
