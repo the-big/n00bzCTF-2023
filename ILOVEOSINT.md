@@ -21,7 +21,7 @@
 
 ![img](https://cdn.discordapp.com/attachments/982094827170713712/1117621570219814922/image.png)
 
-2. We can observe that there is one perfect match ![perfil.com](https://www.perfil.com/tags/Rusia), however once you get into the webpage, there is no article or information that hints at its location. One of the joys of solving OSINT challenges is that you learn to master these basic tools. You can utilize Google Lens to its full potential when you realize you can crop the portion you would like to search for.
+2. We can observe that there is one perfect match [perfil.com][1], however once you get into the webpage, there is no article or information that hints at its location. One of the joys of solving OSINT challenges is that you learn to master these basic tools. You can utilize Google Lens to its full potential when you realize you can crop the portion you would like to search for.
 
 ![img](https://cdn.discordapp.com/attachments/982094827170713712/1117622521932562462/image.png)
 
@@ -36,6 +36,8 @@
 5. With the address being "Новокаховське шосе, 3 м, Nova Kakhovka, Kherson Oblast, Ukraine, 74900," we can deduce that the city is either "Nova Kakhovka" or "Kherson Oblast." After further investigation, Kherson Oblast appears to be a province within Ukraine, therefore we can say for certain the city would be Nova Kakhovka.
 
 6. The flag format indicates us to put it in n00bz{City_Name} format, so let's do that: `n00bz{Nova_Kakhovka}`
+
+[1]: https://www.perfil.com/tags/Rusia "Perfil"
 
 ### Mission Moon
 *The problem*:
