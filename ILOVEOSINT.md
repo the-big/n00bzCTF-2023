@@ -42,17 +42,3 @@
 
 [1]: https://www.perfil.com/tags/Rusia "Perfil"
 [2]: https://www.digitaljournal.com/world/ukraine-dam-destruction-a-consequence-of-russian-invasion-un-chief/article "Digital Journal"
-
-## Mission Moon
-### *The problem*:
-
-### *The file*:
-
-### *The solution*:
-
-## Lost
-### *The problem*:
-
-### *The file*:
-
-### *The solution*:
